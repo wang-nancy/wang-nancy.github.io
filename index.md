@@ -31,8 +31,6 @@ Peak von Mises stress and total deformation from the static two-step run:
 
 ## Four-Legged Robot — CAD
 
-![Four-legged robot](case.jpg)
-
 A quadruped walking robot designed in SolidWorks, with fully articulated legs built as
 repeated linkages. The repo includes an interactive 3D model you can rotate in the browser.
 
@@ -40,7 +38,9 @@ repeated linkages. The repo includes an interactive 3D model you can rotate in t
 
 [View the project + spin the 3D model →](https://github.com/wang-nancy/4-leg-bot)
 
----
+## Tamagotchi- ongoing 
+![Four-legged robot](case.jpg)
+
 
 ## Skills
 
