@@ -39,6 +39,18 @@ repeated linkages. The repo includes an interactive 3D model you can rotate in t
 ![Four-legged robot](case.jpg)
 ![Four-legged robot](touchscreentest.png)
 ![Four-legged robot](screentest.gif)
+  ESP32-S3 (main microcontroller) transitioned to Raspberry Pi Zero 2 W for future improvability
+  MicroSD card
+  Battery 
+  joystic 
+  DRV2605L Haptic Module 
+  ERM vibration motor
+  Arducam IMX219 8 MP Camera V2
+  15-pin ribbon cable
+  Speaker
+## Other 
+Architectural competition, tamagotchi version 1
+https://www.instructables.com/Building-for-Its-People-Makerspace-for-Altadenas-P
 
 ## Skills
 
@@ -46,7 +58,7 @@ repeated linkages. The repo includes an interactive 3D model you can rotate in t
 - **Analysis:** Ansys Mechanical — static structural FEA, contact/joint modeling
 - **Focus areas:** mechatronics, manufacturing / NPI design, materials
 
----
+
 
 ## About
 
