@@ -10,7 +10,7 @@ could actually be built.
 A radial gripper with central pushrod (slider-crank) actuation, taken from CAD through a
 static structural FEA in Ansys. I derived the grip-force load case from first principles,
 used a two-step loading strategy to separate mechanism closing from grip loading, and read
-the results carefully — including distinguishing rigid-body closing motion from actual
+the results and distinguishing rigid-body closing motion from actual
 elastic deflection.
 
 Peak von Mises stress and total deformation from the static two-step run:
@@ -30,7 +30,7 @@ repeated linkages. The repo includes an interactive 3D model you can rotate in t
 ![Mass breakdown](4legbotmassvisualize.png)
 [View the project + spin the 3D model →](https://github.com/wang-nancy/4-leg-bot)
 
-## Tamagotchi from scratch- ongoing 
+## Tamagotchi from scratch- Ongoing 
 ![Four-legged robot](case.jpg)
 ![Four-legged robot](touchscreentest.png)
 ![Four-legged robot](screentest.gif)
