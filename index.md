@@ -46,11 +46,14 @@ Components
   Speaker
 ## Other 
 Architectural competition "Autodesk Design & Make It Real: Make It Heal", first place
-https://www.instructables.com/Building-for-Its-People-Makerspace-for-Altadenas-P
+documentation: https://www.instructables.com/Building-for-Its-People-Makerspace-for-Altadenas-P
 ![comp](building.png)
+Forma Analysis of wind, daylight potential, and sunhour
 ![comp](Forma1.png)
 ![comp](Forma2.png)
 ![comp](Forma3.png)
+
+
 tamagotchi version 1 and documentation
 https://www.instructables.com/Mini-Tamagunio-Updated-Assembly-Guide-With-Trouble
 ## Skills
