@@ -35,10 +35,11 @@ repeated linkages. The repo includes an interactive 3D model you can rotate in t
 ![Mass breakdown](4legbotmassvisualize.png)
 [View the project + spin the 3D model →](https://github.com/wang-nancy/4-leg-bot)
 
-## Tamagotchi- ongoing 
+## Tamagotchi from scratch- ongoing 
 ![Four-legged robot](case.jpg)
 ![Four-legged robot](touchscreentest.png)
 ![Four-legged robot](screentest.gif)
+Components  
   ESP32-S3 (main microcontroller) transitioned to Raspberry Pi Zero 2 W for future improvability
   MicroSD card
   Battery 
