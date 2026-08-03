@@ -37,7 +37,8 @@ repeated linkages. The repo includes an interactive 3D model you can rotate in t
 
 ## Tamagotchi- ongoing 
 ![Four-legged robot](case.jpg)
-
+!(touchscreentest.gif)
+!(screentest.png)
 
 ## Skills
 
