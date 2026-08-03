@@ -1,5 +1,5 @@
 # Nancy Wang
-Mechanical Engineering student at UC Berkeley, manufacturing design, mechatronics, and
+UC Berkeleystudent interested in manufacturing design, mechatronics, and
 product development. I like taking a design from CAD through analysis to something that
 could actually be built.
 [Email: Mwang3@berkeley.edu](Mwang3@berkeley.edu)· [GitHub](https://github.com/wang-nancy)
