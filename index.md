@@ -52,7 +52,7 @@ Components
 ## Other 
 Architectural competition, tamagotchi version 1
 https://www.instructables.com/Building-for-Its-People-Makerspace-for-Altadenas-P
-
+![comp](building.png)
 ## Skills
 
 - **CAD:** SolidWorks — parts, assemblies, mechanisms
