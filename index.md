@@ -1,4 +1,4 @@
-### Nancy Wang
+# Nancy Wang
 Mechanical Engineering student at UC Berkeley, manufacturing design, mechatronics, and
 product development. I like taking a design from CAD through analysis to something that
 could actually be built.
@@ -34,7 +34,7 @@ repeated linkages. The repo includes an interactive 3D model you can rotate in t
 ![Four-legged robot](case.jpg)
 ![Four-legged robot](touchscreentest.png)
 ![Four-legged robot](screentest.gif)
-Components  
+### Components used
   ESP32-S3 (main microcontroller) transitioned to Raspberry Pi Zero 2 W for future improvability
   MicroSD card
   Battery 
