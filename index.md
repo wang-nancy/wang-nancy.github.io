@@ -1,14 +1,9 @@
-# Nancy Wang
 
 Mechanical Engineering student at UC Berkeley — manufacturing design, mechatronics, and
 product development. I like taking a design from CAD through analysis to something that
 could actually be built.
+[Email](Mwang3@berkeley.edu)· [GitHub](https://github.com/wang-nancy)
 
-<!-- Add your links — delete any you don't want:
-[Email](mailto:you@example.com) · [LinkedIn](https://www.linkedin.com/in/your-handle) · [GitHub](https://github.com/wang-nancy)
--->
-
----
 
 ## 5-Jaw Radial Gripper — CAD + FEA
 
