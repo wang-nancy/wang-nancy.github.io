@@ -47,7 +47,7 @@ repeated linkages. The repo includes an interactive 3D model you can rotate in t
 ## Other 
 Architectural competition "Autodesk Design & Make It Real: Make It Heal", first place
 documentation: https://www.instructables.com/Building-for-Its-People-Makerspace-for-Altadenas-P
-### Forma Analysis of wind, daylight potential, and sunhour
+### Forma Analysis of wind, daylight potential, and sun hours Analysis 
 ![comp](building.png)
 ![comp](Forma1.png)
 ![comp](Forma2.png)
