@@ -45,7 +45,7 @@ Components
   15-pin ribbon cable
   Speaker
 ## Other 
-Autodesk Design & Make It Real: Make It Heal, first place
+Architectural competition "Autodesk Design & Make It Real: Make It Heal", first place
 https://www.instructables.com/Building-for-Its-People-Makerspace-for-Altadenas-P
 ![comp](building.png)
 ![comp](Forma1.png)
