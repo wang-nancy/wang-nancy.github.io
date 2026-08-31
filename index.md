@@ -5,7 +5,7 @@ could actually be built.
 [Email: Mwang3@berkeley.edu](Mwang3@berkeley.edu)· [GitHub](https://github.com/wang-nancy)
 
 
-## 5-Jaw Radial Gripper — CAD + FEA
+## 5-Jaw Radial Gripper: CAD + FEA
 
 A radial gripper with central pushrod (slider-crank) actuation, taken from CAD through a
 static structural FEA in Ansys. I derived the grip-force load case from first principles,
@@ -58,8 +58,8 @@ tamagotchi version 1 and documentation
 https://www.instructables.com/Mini-Tamagunio-Updated-Assembly-Guide-With-Trouble
 ## Skills
 
-- **CAD:** SolidWorks — parts, assemblies, mechanisms
-- **Analysis:** Ansys Mechanical — static structural FEA, contact/joint modeling
+- **CAD:** SolidWorks parts, assemblies, mechanisms
+- **Analysis:** Ansys Mechanical static structural FEA, contact/joint modeling
 - **Focus areas:** mechatronics, manufacturing / NPI design, materials
 
 
