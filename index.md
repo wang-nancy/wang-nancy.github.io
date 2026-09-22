@@ -6,7 +6,9 @@ could actually be built.
 
 
 ## Formula at Berkeley Upright, recruitment project
+[preview](upright.png)
 [Upright design](uprightdesign.pdf)
+
 
 ## 5-Jaw Radial Gripper: CAD + FEA
 
