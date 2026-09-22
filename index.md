@@ -6,7 +6,7 @@ could actually be built.
 
 
 ## Formula at Berkeley Upright, recruitment project
-[preview](Upright-1.png)
+![preview](Upright-1.png)
 [Upright design](uprightdesign.pdf)
 
 
