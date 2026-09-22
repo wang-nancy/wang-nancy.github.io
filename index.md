@@ -5,6 +5,9 @@ could actually be built.
 [Email: Mwang3@berkeley.edu](Mwang3@berkeley.edu)· [GitHub](https://github.com/wang-nancy)
 
 
+## Formula at Berkeley Upright, recruitment project
+
+
 ## 5-Jaw Radial Gripper: CAD + FEA
 
 A radial gripper with central pushrod (slider-crank) actuation, taken from CAD through a
