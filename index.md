@@ -39,7 +39,7 @@ repeated linkages. The repo includes an interactive 3D model you can rotate in t
 ![Four-legged robot](case.jpg)
 ![Four-legged robot](touchscreentest.png)
 ![Four-legged robot](screentest.gif)
-![Four-legged robot](IMG_5594.gif)
+![Four-legged robot](IMG_5594.GIF)
 ### Components used
   ESP32-S3 (main microcontroller) transitioned to Raspberry Pi Zero 2 W for future improvability
   MicroSD card
